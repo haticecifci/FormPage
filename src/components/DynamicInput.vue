@@ -15,7 +15,7 @@
           <input id="expInput" 
           v-model="item.exp"
           class="block w-full font-normal text-base text-gray-700 bg-white rounded border border-solid border-gray-400 transition ease-in outline-none px-3 py-1 m-0 focus:text-gray-900 focus:border-blue-600 placeholder-gray-400 placeholder:text-xs"
-          placeholder="3+"          >
+          placeholder="3+" >
         </div>
     </div> 
   </div>    
